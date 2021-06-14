@@ -1,0 +1,8 @@
+.bck-ground {
+	background-image: url(./images/pikachu.jpeg);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: cover;
+
+}
